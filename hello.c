@@ -3,7 +3,8 @@
 
 int main(int argc, char **argv) {
 
-    printf("Maximilian Clark\n");
+    printf("Maximilian Clark!\n");
+    printf("Electrical Engineering\n");
 
     return 0;
 
