@@ -1,3 +1,12 @@
+/**
+ * Maximilian Clark
+ * 2022/08/29
+ *
+ * This program prints my name and major
+ * as well as my partners name and major.
+ *
+ */
+
 #include <stdlib.h>
 #include <stdio.h>
 
